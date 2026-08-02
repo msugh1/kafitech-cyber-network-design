@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🛡️ Kafitech Solutions – Cyber-Resilient Network Design
+<img width="2560" height="562" alt="image" src="https://github.com/user-attachments/assets/61bc2b7a-4ca7-4db6-8f1f-01dcf90e7ab1" />
+
 
 **VLAN-segmented • ACL-controlled • Layer-2 hardened network**  
 Implemented in **Cisco Packet Tracer**
