@@ -2,7 +2,7 @@
 
 <img width="2560" height="562" alt="image" src="https://github.com/user-attachments/assets/61bc2b7a-4ca7-4db6-8f1f-01dcf90e7ab1" />
 
-**VLAN-segmented • ACL-controlled • Layer-2 hardened network** Implemented in **Cisco Packet Tracer**
+**VLAN-segmented • ACL-controlled • Layer 2 hardened network** implemented in **Cisco Packet Tracer**
 
 [![Cisco](https://img.shields.io/badge/Platform-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![Security](https://img.shields.io/badge/Security-Layer%202%20%26%203-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
