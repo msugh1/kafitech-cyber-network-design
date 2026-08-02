@@ -2,9 +2,7 @@
 
 <img width="2560" height="562" alt="image" src="https://github.com/user-attachments/assets/61bc2b7a-4ca7-4db6-8f1f-01dcf90e7ab1" />
 
-
-**VLAN-segmented • ACL-controlled • Layer-2 hardened network**  
-Implemented in **Cisco Packet Tracer**
+**VLAN-segmented • ACL-controlled • Layer-2 hardened network** Implemented in **Cisco Packet Tracer**
 
 [![Cisco](https://img.shields.io/badge/Platform-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 [![Security](https://img.shields.io/badge/Security-Layer%202%20%26%203-brightgreen?style=for-the-badge&logo=shield&logoColor=white)](#)
@@ -12,6 +10,23 @@ Implemented in **Cisco Packet Tracer**
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🏗️ Network Topology](#%EF%B8%8F-network-topology)
+- [📊 IP Addressing Scheme](#-ip-addressing-scheme)
+- [🔒 Key Security Controls](#-key-security-controls)
+  - [Layer 3 – Access Control Lists](#layer-3--access-control-lists)
+  - [Layer 2 – Switch Hardening](#layer-2--switch-hardening)
+  - [Wireless Security](#wireless-security)
+- [📁 Repository Contents](#-repository-contents)
+- [✅ Validation](#-validation)
+- [🚀 Real-World Recommendations](#-real-world-recommendations)
+- [⭐ Support](#-support)
+- [📄 License](#-license)
 
 ---
 
