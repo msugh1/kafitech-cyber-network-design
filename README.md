@@ -13,6 +13,21 @@
 
 ---
 
+## 📌 Project Overview
+
+Kafitech Solutions required a **cyber-resilient network architecture** to securely connect five departments while providing controlled guest access.
+
+This project delivers a production-grade design featuring:
+
+- Departmental VLAN isolation (Software Dev, HR, Finance, IT Support, Management)
+- Strict inter-VLAN Access Control Lists (ACLs)
+- Full Layer-2 switch hardening
+- Dual SSID wireless (Corporate + Guest isolation)
+- DMZ web server with restricted access
+- Device hardening (SSH-only, banners, encrypted passwords)
+- Centralized logging (Syslog + SNMPv3 simulation)
+
+---
 ## 📑 Table of Contents
 
 - [📌 Project Overview](#-project-overview)
@@ -27,22 +42,6 @@
 - [🚀 Real-World Recommendations](#-real-world-recommendations)
 - [⭐ Support](#-support)
 - [📄 License](#-license)
-
----
-
-## 📌 Project Overview
-
-Kafitech Solutions required a **cyber-resilient network architecture** to securely connect five departments while providing controlled guest access.
-
-This project delivers a production-grade design featuring:
-
-- Departmental VLAN isolation (Software Dev, HR, Finance, IT Support, Management)
-- Strict inter-VLAN Access Control Lists (ACLs)
-- Full Layer-2 switch hardening
-- Dual SSID wireless (Corporate + Guest isolation)
-- DMZ web server with restricted access
-- Device hardening (SSH-only, banners, encrypted passwords)
-- Centralized logging (Syslog + SNMPv3 simulation)
 
 ---
 
