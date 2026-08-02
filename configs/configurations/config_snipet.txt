@@ -1,0 +1,39 @@
+##Configuration Snippet 1:
+Switch> enable
+Switch# configure terminal
+Switch(config)# vlan 10
+Switch(config-vlan)# name Software_Dev
+Switch(config-vlan)# exit
+Switch(config)# interface range fa0/1-24
+Switch(config-if-range)# switchport access vlan 10
+Switch(config-if-range)# exit
+Switch(config)# interface gig0/1
+Switch(config-if)# switchport mode trunk
+Switch(config-if)# switchport trunk allowed vlan 10,20,30,40,50,70
+
+Configuration Snippet 2:
+Switch> enable
+Switch# config t
+Switch(config)# vlan 30
+Switch(config-vlan)# name Finance_vlan
+Switch(config-vlan)# exit
+Switch(config)# interface range fa0/1-24
+Switch(config-if-range)# switchport access vlan 30
+Switch(config-if-range)# exit
+Switch(config)# interface gig0/1
+Switch(config-if)# switchport mode trunk
+Switch(config-if)# switchport trunk allowed vlan 30,40,50,70
+
+
+Configuration Snippet 3:
+Switch> enable
+Switch# config t
+Switch(config)# vlan 70
+Switch(config-vlan)# name Guest_Vlan
+Switch(config-vlan)# exit
+Switch(config)# interface range fa0/1-24
+Switch(config-if-range)# switchport access vlan 70
+Switch(config-if-range)# exit
+Switch(config)# interface gig0/1
+Switch(config-if)# switchport mode trunk
+Switch(config-if)# switchport trunk allowed vlan 70
